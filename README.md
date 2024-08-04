@@ -70,9 +70,7 @@ print(rules)
 ```
 ## Output
 The output will display the frequent itemsets and the corresponding association rules found in the dataset.
-```css
-This version improves readability and provides a clear structure for understanding the code and its execution.
-```
+
 
 
 
